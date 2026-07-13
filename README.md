@@ -1,0 +1,1 @@
+to run, use the command `npx playwright test demo.spec.js`
